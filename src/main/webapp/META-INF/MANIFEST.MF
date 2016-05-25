@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Class-Path: spring-session-1.2.0.RELEASE.jar commons-logging-1.2.jar s
+ pring-data-redis-1.7.1.RELEASE.jar spring-data-keyvalue-1.1.1.RELEASE
+ .jar spring-data-commons-1.12.1.RELEASE.jar spring-core-4.2.2.RELEASE
+ .jar spring-beans-4.2.2.RELEASE.jar slf4j-api-1.7.19.jar jcl-over-slf
+ 4j-1.7.19.jar spring-context-4.2.2.RELEASE.jar spring-tx-4.2.5.RELEAS
+ E.jar spring-oxm-4.2.5.RELEASE.jar spring-aop-4.2.5.RELEASE.jar aopal
+ liance-1.0.jar spring-context-support-4.2.5.RELEASE.jar spring-securi
+ ty-web-4.0.3.RELEASE.jar spring-security-core-4.0.3.RELEASE.jar sprin
+ g-expression-4.2.2.RELEASE.jar spring-web-4.2.2.RELEASE.jar commons-p
+ ool2-2.4.2.jar jedis-2.8.1.jar
+
