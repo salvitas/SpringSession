@@ -34,6 +34,8 @@ public class CustomServlet extends HttpServlet {
             session.setAttribute("Username", request.getParameter("userName"));
         }
 
+        MultiLoginService.createMultiLogin(request);
+
         RequestDispatcher rd = request.getRequestDispatcher("welcome.jsp");
 
         rd.forward(request, response);
