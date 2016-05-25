@@ -11,7 +11,7 @@
             String userName = (String) session.getAttribute("Username");
             String additionalURL = (String) request.getAttribute("alias");
             if (userName != null) {
-                out.write("Hello" + userName);
+                out.write("Hello " + userName);
            } else {
                 out.write("Hello World!");
             }
